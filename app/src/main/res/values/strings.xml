@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie DB Challenge</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="movie_label_release_date">Release date:</string>
+    <string name="movie_label_rating">Rating</string>
+    <string name="menu_title_search">Search</string>
+    <string name="search_hint">Ex: Frozen</string>
+</resources>
