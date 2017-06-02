@@ -119,6 +119,7 @@ public class MovieListActivity extends AppCompatActivity implements NetworkingIn
         } else {
             if (networkingHandler == null) { // Intent filter case
                 networkingHandler = new NetworkingHandler(this);
+                networkingHandler.searchMovies(query, 1, true);
             }
         }
     }
